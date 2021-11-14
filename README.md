@@ -26,4 +26,6 @@
 
 见Release。
 
+https://github.com/setsuna-dayo/GZHMUtv/releases/download/v1.0-beta/GZHMUTV.msi
+
 不出意外的话短时间内不会再进行更新和维护。
